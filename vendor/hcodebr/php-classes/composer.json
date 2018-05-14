@@ -1,9 +1,9 @@
 {
-    "name": "hugovms/php-classes",
+    "name": "hcodebr/php-classes",
     "minimum-stability": "dev",
     "type": "library",
     "description": "Classes PHP",
-    "homepage": "https://github.com/hugovms/php-classes",
+    "homepage": "https://github.com/hcodebr/php-classes",
     "authors": [
         {
             "name": "Hcode Treinamentos",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hugo\\": "src"
+            "": "src"
         }
     }
 }
